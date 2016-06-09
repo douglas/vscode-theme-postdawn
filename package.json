@@ -2,7 +2,7 @@
     "name": "theme-postdawn",
     "displayName": "Postdawn",
     "description": "Postdawn is a dark interface and syntax theme for VSCode",
-    "version": "0.0.4",
+    "version": "0.0.5",
     "publisher": "dsarch",
     "engines": {
         "vscode": "^1.0.0"
